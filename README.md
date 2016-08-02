@@ -14,6 +14,12 @@ https://echosim.io/welcome?next=%2F
 - Tracks what your Alexa is inputting:
 http://alexa.amazon.com/spa/index.html#cards
 
+- Twitter API
+https://dev.twitter.com/overview/documentation
+
+- Twitter Apps
+https://apps.twitter.com/
+
 - Step-by-Step Guide to Build a How-To Skill:
 https://developer.amazon.com/public/community/post/TxKALMUNLHZPAP/New-Alexa-Skills-Kit-Template:-Step-by-Step-Guide-to-Build-a-How-To-Skill
  
