@@ -176,4 +176,4 @@ function getMessages(user){
 	}
 
 	var twitter = new Twitter(config);
-
+}
