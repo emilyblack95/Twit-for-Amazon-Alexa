@@ -42,5 +42,5 @@ https://github.com/amzn/alexa-skills-kit-java
 https://github.com/BoyCook/TwitterJSClient
 
 - UPLOADING FILES:
-index.js & AlexaSkill.js go to --> https://console.aws.amazon.com/lambda/home
+index.js & AlexaSkill.js go to --> https://console.aws.amazon.com/lambda/home /n
 intent_schema.json & sample_utterances.txt go to --> https://developer.amazon.com/edw/home.html#/
