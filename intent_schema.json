@@ -2,15 +2,16 @@
   "intents": [
     {
       "intent": "TwitterIntent",
-       "slots": [
-      {
-        "name" : "userName",
-        "type": "LIST_NAMES"
-      }
+      "slots": 
+      [
+        {
+          "name" : "userName",
+          "type": "LIST_NAMES"
+        }
      ]
     },
     {
-    "intent" : "MoreIntent"
+      "intent" : "MoreIntent"
     },
     {
       "intent": "AMAZON.HelpIntent"
