@@ -11,7 +11,7 @@
      ]
     },
     {
-      "intent" : "MoreIntent",
+      "intent" : "MoreIntent"
     },
     {
       "intent": "AMAZON.HelpIntent"
