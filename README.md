@@ -3,6 +3,7 @@ Twit is an Amazon Alexa skill kit which allows the user to say things such as "A
 
 WHAT YOU WILL NEED:
 - Node.js: https://nodejs.org/en/download/
+- A valid Twitter app. After getting the keys/callback URL, go into index.js and paste them there.
 - Any sort of IDE, personally I prefer Notepad++ or Atom.
 - A valid Amazon account that is registered for Alexa development.
 
