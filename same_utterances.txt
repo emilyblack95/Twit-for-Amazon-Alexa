@@ -1,0 +1,18 @@
+TwitterIntent Read tweets for {userName}
+TwitterIntent Read tweets of {userName}
+TwitterIntent Read tweets from {userName}
+TwitterIntent Get tweets for {userName}
+TwitterIntent Get tweets of {userName}
+TwitterIntent Get tweets from {userName}
+TwitterIntent to get tweets from {userName}
+TwitterIntent to get tweets for {userName}
+TwitterIntent to read tweets for {userName}
+TwitterIntent to read tweets from {userName}
+TwitterIntent to read me tweets from {userName}
+TwitterIntent to get me tweets from {userName} 
+TwitterIntent Read {userName} Tweets
+TwitterIntent for tweets from {userName}
+TwitterIntent for tweets for {userName}
+MoreIntent Another One
+MoreIntent Yes
+QuitIntent No

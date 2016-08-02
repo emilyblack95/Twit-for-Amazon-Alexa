@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "TwitterIntent",
+       "slots": [
+      {
+        "name" : "userName",
+        "type": "LIST_NAMES"
+      }
+     ]
+    },
+    {
+    "intent" : "MoreIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "QuitIntent"
+    }
+  ]
+}
