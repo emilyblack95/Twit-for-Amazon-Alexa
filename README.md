@@ -7,29 +7,29 @@ WHAT YOU WILL NEED:
 - A valid Amazon account that is registered for Alexa development.
 
 HELPFUL SITES:
-- Emulator for Alexa
+- Emulator for Alexa:
 https://echosim.io/welcome?next=%2F   
 
-- Tracks what your Alexa is inputting
+- Tracks what your Alexa is inputting:
 http://alexa.amazon.com/spa/index.html#cards
 
-- Step-by-Step Guide to Build a How-To Skill
+- Step-by-Step Guide to Build a How-To Skill:
 https://developer.amazon.com/public/community/post/TxKALMUNLHZPAP/New-Alexa-Skills-Kit-Template:-Step-by-Step-Guide-to-Build-a-How-To-Skill
 
-- Step-by-Step Guide to Build a Fact Skill
+- Step-by-Step Guide to Build a Fact Skill:
 https://developer.amazon.com/public/community/post/Tx3DVGG0K0TPUGQ/New-Alexa-Skills-Kit-Template:-Step-by-Step-Guide-to-Build-a-Fact-Skill
 
-- Build a Trivia Skill in under an Hour
+- Build a Trivia Skill in under an Hour:
 https://developer.amazon.com/public/community/post/TxDJWS16KUPVKO/New-Alexa-Skills-Kit-Template-Build-a-Trivia-Skill-in-under-an-Hour
 
-- A complete list of ALL Alexa skills
+- A complete list of ALL Alexa skills:
 https://github.com/dale3h/alexa-skills-list
 
-- Node.js Alexa Skills Kit Samples
+- Node.js Alexa Skills Kit Samples:
 https://github.com/amzn/alexa-skills-kit-js
 
-- Java Alexa Skills Kit SDK & Samples
+- Java Alexa Skills Kit SDK & Samples:
 https://github.com/amzn/alexa-skills-kit-java
 
-- The example that we used
+- The example that we used:
 https://github.com/BoyCook/TwitterJSClient
